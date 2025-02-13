@@ -28,6 +28,7 @@ This project explores **financial loan data** to uncover patterns in **interest 
 - **What are the trends in loan interest rates?**
 - **Are higher incomes correlated with lower interest rates?**
 - **How does homeownership status affect interest rates?**
+- ![Density Plot](DensityPlot.png)
 
 #### **📊 Interest Rate vs. Debt-to-Income Ratio**
 *Higher debt-to-income ratios show increased risk, leading to higher interest rates.*
@@ -58,4 +59,8 @@ This project explores **financial loan data** to uncover patterns in **interest 
 
 ---
 
-## **📁 Project Structure**
+## 🤝 **Contributing**
+Feel free to fork this repository and suggest improvements.
+
+🚀 **Happy Analyzing!**
+
