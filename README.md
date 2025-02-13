@@ -32,7 +32,7 @@ This project explores **financial loan data** to uncover patterns in **interest 
 #### **📊 Interest Rate vs. Debt-to-Income Ratio**
 *Higher debt-to-income ratios show increased risk, leading to higher interest rates.*
 
-![Interest Rate vs. DTI](images/InterestRate_DTI.png)
+![Interest Rate vs. DTI](InterestRate_DTI.png)
 
 ---
 
@@ -45,7 +45,6 @@ This project explores **financial loan data** to uncover patterns in **interest 
 #### **📊 Loan Purpose by Homeownership**
 *Debt consolidation is the most common loan purpose across all homeownership statuses.*
 
-![Loan Purpose by Homeownership](images/LoanPurpose_Homeownership.png)
 
 ---
 
@@ -56,8 +55,6 @@ This project explores **financial loan data** to uncover patterns in **interest 
 
 #### **📊 ROC Curve - Predicting Loan Default**
 *The ROC curve shows a good model fit with an AUC of 0.72.*
-
-![ROC Curve](images/ROC_Curve.png)
 
 ---
 
